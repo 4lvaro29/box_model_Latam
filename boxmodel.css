@@ -1,4 +1,9 @@
 
+.col1, .col2, .col3, .col4 {
+	float: left;
+}
+
+
 .col1{
 
 	color: green;
@@ -7,7 +12,8 @@
 	height: 25%;
 	box-sizing: border-box;
 	text-align: center;
-
+	border: solid 1px;
+	padding: 20px;
 }
 
 
@@ -19,7 +25,7 @@
 	height: 25%;
 	box-sizing: border-box;
 	text-align: center;
-	
+	padding: 10px;	
 }
 
 .col3 {
@@ -30,7 +36,9 @@
 	height: 25%;
 	box-sizing: border-box;
 	text-align: center;
-}
+	border: solid 1px;
+	padding: 10px;
+}	
 
 .col4 {
 
@@ -40,4 +48,4 @@
 	height: 25%;
 	box-sizing: border-box;
 	text-align: center;
-}
+}	
