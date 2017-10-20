@@ -1,0 +1,43 @@
+
+.col1{
+
+	color: green;
+	background-color: yellow;
+	width: 25%;
+	height: 25%;
+	box-sizing: border-box;
+	text-align: center;
+
+}
+
+
+.col2 {
+
+	color: yellow;
+	background-color: blue;
+	width: 25%;
+	height: 25%;
+	box-sizing: border-box;
+	text-align: center;
+	
+}
+
+.col3 {
+
+	color: red;
+	background-color: yellow;
+	width: 25%;
+	height: 25%;
+	box-sizing: border-box;
+	text-align: center;
+}
+
+.col4 {
+
+	color: white;
+	background-color: blue;
+	width: 25%;
+	height: 25%;
+	box-sizing: border-box;
+	text-align: center;
+}
